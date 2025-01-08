@@ -1,6 +1,9 @@
 ### Hi there 👋, My name is Md. Ar Rafi Fayez Joy
 #### I am a Frontend Web Developer with React
-![I am a Frontend Web Developer with React](https://i.ibb.co.com/c1ftTZ2/Black-Minimal-Motivation-Quote-Linked-In-Banner-3.png)
+![I am a Frontend Web Developer with React]
+
+![Image](https://github.com/user-attachments/assets/90ecf233-bc37-4c27-b00c-b1f14cd4471f)
+
 
 
 I’m currently learning and building projects with **React**, **Firebase**, **Node.js**, and more.
