@@ -5,6 +5,8 @@
 
 
 #### 🚀 About Me
+ Hi, I'm Rafi, a passionate web developer and learner. I enjoy building user-friendly websites and applications using technologies like React, Firebase, Node.js, and more. 
+ Always eager to take on new challenges and create impactful digital solutions!
 - 🌱 I’m currently learning and building projects with **React**, **Firebase**, **Node.js**, and more.
 - 🛠️ Working on projects like **Performance Gear**, **learnLang**, and more.
 - 🎯 Aspiring to create impactful websites and applications.
