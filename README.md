@@ -7,7 +7,9 @@
 
 I’m currently learning and building projects with **React**, **Firebase**, **Node.js**, and more.
 
-Skills: FIREBASE/NODE JS/EXPRESS JS/TAILWIND CSS / REACT / JS / HTML / CSS
+Skills:
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> REACT  </p> 
+FIREBASE/NODE JS/EXPRESS JS/TAILWIND CSS / JS / HTML / CSS
 
 - 🔭 I’m currently working on Learning and make website 
 - 🌱 I’m currently learning Node Js, MongoDB 
