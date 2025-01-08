@@ -2,6 +2,8 @@
 #### I am a Frontend Web Developer with React
 ![I am a Frontend Web Developer with React](https://i.ibb.co.com/c1ftTZ2/Black-Minimal-Motivation-Quote-Linked-In-Banner-3.png)
 
+![Cover photo](https://i.ibb.co.com/c1ftTZ2/Black-Minimal-Motivation-Quote-Linked-In-Banner-3.png)
+
 I’m currently learning and building projects with **React**, **Firebase**, **Node.js**, and more.
 
 Skills: FIREBASE/NODE JS/EXPRESS JS/TAILWIND CSS / REACT / JS / HTML / CSS
