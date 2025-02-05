@@ -53,7 +53,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arrafi2644&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Arrafi2644/contributions?format=svg&private=false)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Arrafi2644)  
 
