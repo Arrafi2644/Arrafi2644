@@ -54,11 +54,17 @@
 ###
 
 ### 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arrafi2644)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrafi2644&layout=compact&theme=light" width="100%" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arrafi2644&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arrafi2644&show_icons=true&theme=light" width="100%" />
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Arrafi2644)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Arrafi2644&theme=light" width="100%" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arrafi2644&theme=github-light" width="100%" />
 </p>
