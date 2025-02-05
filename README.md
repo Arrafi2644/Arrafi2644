@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">Social</h3>
+### 🌍 Social Links:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/md-ar-rafi-fayez-joy/" target="_blank">
