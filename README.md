@@ -66,6 +66,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arrafi2644&show_icons=true&theme=light" width="100%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arrafi2644&theme=github-light" width="100%" />
+</p>
 
 
 
