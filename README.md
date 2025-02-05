@@ -57,6 +57,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Arrafi2644&theme=light" width="100%" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrafi2644&layout=compact&theme=light" width="100%" />
 </p>
 
@@ -64,8 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Arrafi2644&show_icons=true&theme=light" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arrafi2644&theme=light" width="100%" />
-</p>
+
 
 
