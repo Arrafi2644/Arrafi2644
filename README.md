@@ -1,5 +1,5 @@
 ## Hi there 👋, My name is Md. Ar Rafi Fayez Joy
-### Frontend Web Developer
+### Web Developer
 
 ![Md. Ar Rafi Fayez Joy](https://i.ibb.co/XfwTww6x/Md-Ar-Rafi-Fayez-Joy.png)
 
